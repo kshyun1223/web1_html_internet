@@ -1,5 +1,6 @@
 # web1_html_internet
-생활코딩 WEB1 - HTML &amp; Internet 수업 실습과제
+> 생활코딩 WEB1 - HTML &amp; Internet 수업 실습과제
+> (https://opentutorials.org/course/3084)
 
 * 사용언어: HTML
 
