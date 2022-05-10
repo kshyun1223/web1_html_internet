@@ -1,5 +1,9 @@
 # web1_html_internet
-> 생활코딩 WEB1 - HTML &amp; Internet 수업 실습과제
+> 생활코딩 WEB1 - HTML &amp; Internet 수업 실습과제  
+>
+> * [완성 작품으로 이동](https://kshyun1223.github.io/web1_html_internet/)  
+>
+> * [필기노트로 이동](https://github.com/kshyun1223/web1_html_internet/wiki)
 
 ### 사용언어
 * HTML
@@ -9,6 +13,7 @@
   * 사람이 하는 일 vs. 기계가 하는 일
 * HTML의 주요 태그 실습
   *  `<head>` 태그: 
+  *  `<body>` 태그: 
 * 태그의 중요성에 대한 이해
   * 검색엔진에서의 노출 우선순위
 * HTML 태그의 구조에 대한 이해
@@ -16,8 +21,7 @@
   * `<head>` 태그 vs. `<body>` 태그
 * 웹에 대한 기초적인 이해 (서버 vs. 클라이언트, 웹호스팅)
 * 웹사이트 운영에 유용한 외부 서비스의 연동 실습
-    동영상, 댓글, 채팅, 방문자 분석기
-
-* 완성 작품 배포: [링크](https://kshyun1223.github.io/web1_html_internet/)
-
-* 필기노트: [링크](https://github.com/kshyun1223/web1_html_internet/wiki)
+  * Youtube
+  * 댓글
+  * 채팅
+  * Google Analytics
