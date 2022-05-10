@@ -18,9 +18,9 @@
   * 부모 태그 vs. 자식 태그
   * `<head>` 태그 vs. `<body>` 태그
 * 웹에 대한 기초적인 이해 (서버 vs. 클라이언트)
+* 웹 호스팅을 이용한 웹 사이트 배포 실습: Github Pages
 * 웹사이트 운영에 유용한 외부 서비스의 연동 실습
   * 동영상: Youtube
   * 댓글: Disqus
   * 채팅: Tawk.to
   * 방문자 분석: Google Analytics
-* 완성 작품 최종 배포 실습: Github Pages
