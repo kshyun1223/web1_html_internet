@@ -1,6 +1,6 @@
 # web1_html_internet
 > 생활코딩 WEB1 - HTML &amp; Internet 수업 실습과제  
-> * <a href="https://kshyun1223.github.io/web1_html_internet/index.html" target="_blank">완성 작품으로 이동</a>
+> * [완성 작품으로 이동](https://kshyun1223.github.io/web1_html_internet/)
 > * [필기노트로 이동](https://github.com/kshyun1223/web1_html_internet/wiki)
 
 ### 사용언어
