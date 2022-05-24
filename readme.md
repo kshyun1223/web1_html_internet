@@ -1,4 +1,4 @@
-# 생활코딩 WEB1 - HTML &amp; Internet 수업 실습과제
+# 생활코딩 WEB1 - HTML &amp; Internet 수업 실습작품
 > * [완성 작품으로 이동](https://kshyun1223.github.io/web1_html_internet/)
 > * [필기노트로 이동](https://github.com/kshyun1223/web1_html_internet/wiki/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-WEB1_HTML-&-Internet-%EC%88%98%EC%97%85-%ED%95%84%EA%B8%B0%EB%85%B8%ED%8A%B8)
 
