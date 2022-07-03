@@ -62,15 +62,15 @@
 ### 구조
 ```html
 <!doctype html>
-<html>
-<head>
-   <title>제목</title>
-   <meta charset="형식">
-</head>
-<body>
-   <본문내용>
-</body>
-</html>
+    <html>
+        <head>
+            <title>제목</title>
+            <meta charset="형식">
+        </head>
+        <body>
+            <본문내용>
+        </body>
+    </html>
 ```
 - 제목 태그: `<title>제목</title>`
     - 웹브라우저의 본문에는 출력되지 않으며, 탭에 표시됨
