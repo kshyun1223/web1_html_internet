@@ -1,6 +1,6 @@
 # 생활코딩 WEB1 - HTML &amp; Internet 수업
 > * [완성 작품으로 이동](https://kshyun1223.github.io/web1_html_internet/)
-> * [필기노트로 이동](https://github.com/kshyun1223/study_note/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/01.%20WEB1%20-%20HTML%20&%20Internet.md)
+> * [필기노트로 이동](https://github.com/kshyun1223/web1_html_internet/blob/main/html_internet_note.md)
 
 ### 사용언어
 * HTML
